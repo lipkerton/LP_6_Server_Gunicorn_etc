@@ -1,0 +1,5 @@
+IP: 158.160.82.178;
+name_taski: https://taski.myddns.me;
+name_kittygram: https://mykittygram.myddns.me;
+login: lipkerton;
+password: 00January12;
